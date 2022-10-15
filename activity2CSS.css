@@ -58,10 +58,7 @@ h2{font-size: 20px}
     font-size: 15px ;
     background-color: purple ;
     padding: 10 px;
-    margin-top: 10 px;
-    margin-left: 10 px;
-    margin-right: 10 px;
-    margin-bottom: 30 px;
+    margin: 10 px;
     color: white;
 }
 
@@ -69,6 +66,6 @@ h2{font-size: 20px}
     background-color: aqua;
     padding: 20 px;
     margin-bottom: 10 px;
-    margin-top: 5 px;
+    margin-top: 25 px;
     margin-left: 20 px;
 }
